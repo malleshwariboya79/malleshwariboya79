@@ -1,32 +1,12 @@
-# Hi 👋, I'm Malleshwari Boya
+<h1 align="center">Hi 👋, I'm Malleshwari Boya</h1>
 
-💻 Frontend & MERN Stack Developer
+<h3 align="center">
+Frontend Developer | MERN Stack Developer | Open Source Enthusiast
+</h3>
 
-🎓 B.Tech Computer Science Engineering Student
-
-🚀 Passionate about Web Development, Open Source and AI
-
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React.js
-- Angular
-- Node.js
-- Express.js
-- MongoDB
-- Python
-- Git & GitHub
-
-## Currently Learning
-
-- Advanced MERN Stack
-- AI Applications
-- Full Stack Development
-
-## Connect With Me
-
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Coming Soon
+<p align="center">
+🎓 B.Tech CSE Student <br>
+💻 Building Web Applications <br>
+🚀 Aspiring Full Stack Developer & Freelancer
+</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
