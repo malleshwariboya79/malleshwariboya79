@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Malleshwari Boya
 
-<!--
-**malleshwariboya79/malleshwariboya79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend & MERN Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about Web Development, Open Source and AI
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React.js
+- Angular
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- Git & GitHub
+
+## Currently Learning
+
+- Advanced MERN Stack
+- AI Applications
+- Full Stack Development
+
+## Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Portfolio: Coming Soon
