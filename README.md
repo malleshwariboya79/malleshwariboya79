@@ -20,4 +20,9 @@ Frontend Developer | MERN Stack Developer | Open Source Enthusiast
 ![](https://streak-stats.demolab.com/?user=malleshwariboya79&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=malleshwariboya79&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐 Connect With Me
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/malleshwariboya79)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
